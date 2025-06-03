@@ -1,0 +1,9 @@
+{
+    "embedding_in": 768,
+    "embedding_out": 128,
+    "noise_size": 100,
+    "image_channels": 3,
+    "image_size": 64,
+    "ngf": 64,
+    "ndf": 64
+}
